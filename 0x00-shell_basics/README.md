@@ -1,1 +1,1 @@
-Display current directory contents long format
+Create a script

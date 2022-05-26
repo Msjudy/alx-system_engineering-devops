@@ -1,1 +1,1 @@
-Script giving permission to everybody
+Script giving everybody permission

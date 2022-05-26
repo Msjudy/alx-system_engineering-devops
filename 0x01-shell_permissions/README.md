@@ -1,1 +1,1 @@
-Script switching to user betty
+printing username to current user

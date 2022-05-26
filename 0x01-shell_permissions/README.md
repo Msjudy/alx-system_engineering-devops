@@ -1,1 +1,1 @@
-Script with empty file
+Script executing permission

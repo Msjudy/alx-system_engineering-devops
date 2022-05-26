@@ -1,1 +1,1 @@
-Changing the group owner from school to hello
+Changing owner and group

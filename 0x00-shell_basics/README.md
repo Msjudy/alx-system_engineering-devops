@@ -1,1 +1,1 @@
-Script listing all files
+Printing a file

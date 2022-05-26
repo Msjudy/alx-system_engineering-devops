@@ -1,1 +1,1 @@
-Setting the mode for file hello
+Setting mirror permissions

@@ -1,1 +1,1 @@
-Script giving everybody permission
+Giving file hello permissions

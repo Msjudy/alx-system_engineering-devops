@@ -1,1 +1,1 @@
-Script executing permission
+Script executing mutiple permissions

@@ -1,1 +1,1 @@
-Script changing the current directory
+Script listing all files

@@ -1,1 +1,1 @@
-printing all the user groups
+script changing owner of the file

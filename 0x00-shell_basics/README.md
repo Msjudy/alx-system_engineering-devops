@@ -1,1 +1,1 @@
-Creating a script that moves all files
+Deleting all files

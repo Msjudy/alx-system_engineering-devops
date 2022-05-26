@@ -1,1 +1,1 @@
-Script executing mutiple permissions
+Script giving permission to everybody

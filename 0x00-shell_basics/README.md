@@ -1,1 +1,1 @@
-Creating the directories
+Files and directories separated by commas

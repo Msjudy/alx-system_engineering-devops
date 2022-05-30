@@ -1,1 +1,1 @@
-Users and homes
+Displaying the users

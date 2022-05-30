@@ -1,1 +1,1 @@
-Displayin a file with the pattern root
+Counting the word

@@ -1,1 +1,1 @@
-Replacing
+Removing letters

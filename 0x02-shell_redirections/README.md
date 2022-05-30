@@ -1,1 +1,1 @@
-Script displaying the third line of a file
+Saving current state of directory

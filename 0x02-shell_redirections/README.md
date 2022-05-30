@@ -1,1 +1,1 @@
-Duplicate the last line
+Deleting Java Script

@@ -1,1 +1,1 @@
-Displaying the first 10 lines
+Script displaying the third line of a file

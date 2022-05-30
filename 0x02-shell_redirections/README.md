@@ -1,1 +1,1 @@
-Displaying the content of two files
+Displaying last 10 words of a file

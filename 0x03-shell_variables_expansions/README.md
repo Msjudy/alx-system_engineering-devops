@@ -1,1 +1,1 @@
-My global variable
+My true Knowledge

@@ -1,1 +1,1 @@
-Listing all gif files
+Decoding acrostic

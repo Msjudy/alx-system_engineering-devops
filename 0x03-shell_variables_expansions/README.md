@@ -1,1 +1,1 @@
-Converting binary to decimal
+ Possible combinations

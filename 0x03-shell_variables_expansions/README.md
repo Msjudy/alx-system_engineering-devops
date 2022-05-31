@@ -1,1 +1,1 @@
-My divide and rule
+Breath to the power of love

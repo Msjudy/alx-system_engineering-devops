@@ -1,1 +1,1 @@
-My true Knowledge
+My divide and rule

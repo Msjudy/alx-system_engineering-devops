@@ -1,1 +1,1 @@
-My strong encryption
+Printing odd lines

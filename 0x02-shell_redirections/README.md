@@ -1,1 +1,1 @@
-Display
+Script displaying all

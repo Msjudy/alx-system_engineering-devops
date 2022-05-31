@@ -1,1 +1,1 @@
-Script displaying all
+Finding all empty files

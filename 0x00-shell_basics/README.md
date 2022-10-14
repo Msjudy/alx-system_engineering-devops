@@ -1,1 +1,1 @@
-Listing
+Magic file
